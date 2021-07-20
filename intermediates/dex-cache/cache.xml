@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_1ef4244b94331daf5b425c99a704305ab69f9a30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_838ed53445c7b80c13b574b1797fc853ff0e97e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_fb42032c4a3650cc7f76523b367f2ca829d004fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ankita\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_4d53d66a67cc841cd9c912f8df528cab6e59ab32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_ba75d1900a1484484a673fc40b65d996afc8065d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Ankita\AndroidStudioProjects\Speechofsound\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_ade5f5ebf7b0659d7d9ed4520b689747677cfb9a.jar" />
+    </item>
+
+</items>
